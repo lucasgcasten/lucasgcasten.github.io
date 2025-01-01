@@ -3,7 +3,7 @@ title: "The combination of autism and exceptional cognitive ability is associate
 collection: publications
 category: manuscripts_lead_author
 permalink: /publication/2e_autism_suicide
-excerpt: 'This paper explores factors influencing mental health in children with autism, particularly cognitive ability. We found children with autism that had high cognitive abilities were more likely to have suicidal ideation. Interestingly, higher cognitive abilities in children without autism was related with lower rates of suicidal thoughts.'
+excerpt: 'This paper explores factors influencing mental health in children with autism, particularly cognitive ability. We found children with autism that had high cognitive abilities were more likely to have suicidal ideation. Interestingly, higher cognitive abilities in children without autism was related with lower rates of suicidal thoughts. These results identify a subpopulation within autism at high risk for mental health challenges, which can hopefully be used better identify who is at risk for suicide and provide them with more resources.'
 date: 2023-01-01
 venue: 'Neurobiology of Learning and Memory'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'

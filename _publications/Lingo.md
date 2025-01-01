@@ -3,7 +3,7 @@ title: "Lingo: an automated, web-based deep phenotyping platform for language ab
 collection: publications
 category: manuscripts_lead_author
 permalink: /publication/Lingo
-excerpt: 'This paper describes Lingo, a novel deep phenotyping tool for language ability. We describe the assessments used, as well as results from genetic analyses in >1,000 adults who completed Lingo.'
+excerpt: 'Lingo is a novel deep phenotyping platform for language ability, validated through genetic analyses in over 1,000 adults. This open-source tool enables precise quantification of language and cognitive abilities, addressing a key barrier in language genetics research. By providing an accessible approach to language phenotyping. Lingo facilitates the large-scale data collection necessary for genome-wide association studies of quantitative language traits, which have been historically limited by phenotyping constraints.'
 date: 2024-03-29
 venue: 'medRxiv'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
