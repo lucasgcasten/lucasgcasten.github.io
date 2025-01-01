@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Lucas Casten"
+title                    : "Lucas G. Casten"
 title_separator          : "-"
 name                     : &name "Lucas G. Casten"
 description              : &description "Computational genetics PhD candidate, seeking a postdoc in evolutionary and behavioral genetics"
@@ -24,7 +24,7 @@ author:
   avatar           : "lab_headshot.png"
   name             : "Lucas Casten"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Seeking a postdoc in evolutionary and behavioral genetics (Fall 2025)"
   location         : "Iowa City, IA, USA"
   employer         : "University of Iowa"
   # uri              : # URL
