@@ -9,4 +9,4 @@ location: "Denver, CO, USA"
 slidesurl: 'http://lucasgcasten.github.io/files/migration_ASHG2024_poster.pdf'
 ---
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+[A copy of the poster can be downloaded here.](https://drive.google.com/file/d/1hq4faqvb2_WuUBBdVFAylNu0Si7Qujpp/view?usp=sharing)

@@ -9,4 +9,4 @@ location: "Montreal, QC, Canada"
 slidesurl: 'http://lucasgcasten.github.io/files/lcasten_wcpg2023_sli_asd_talk_public.pdf'
 ---
 
-This is a description of your talk, which is a markdown file that can be all markdown-ified like any other post. Yay markdown!
+[A copy of the slides from this talk can be downloaded here.](https://drive.google.com/file/d/1BvGog6x5341QBvv5LTqmxSUHggaa0ryl/view?usp=sharing)
